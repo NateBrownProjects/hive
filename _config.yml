@@ -1,10 +1,10 @@
 # Site settings
-title: Nate Brown Projects
+title: H.I.V.E
 email: thehiveprojectnz@gmail.com
-url: https://github.com/NateBrownProjects
-description: "Nate Brown Projects is an opensource organization that develops programs and products to improve productivity and conveniance."
-keywords: "NateBrownProjects"
-skills: "OpenSource, Web Developer, Software Developer, App Developer"
+url: https://github.com/NateBrownProjects/TheHiveProject
+description: "H.I.V.E is an opensource AI available to use on GitHub."
+keywords: "NateBrownProjects, AI, TheHiveProject, Hive"
+skills: "Develop Better"
 meta_author: Brown Nate
 
 # Google webmaster tools
@@ -61,9 +61,4 @@ markdown: kramdown
 permalink: pretty
 
 #for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
+
